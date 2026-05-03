@@ -1,0 +1,7 @@
+<resources>
+    <color name="black">#050505</color>
+    <color name="panel">#121212</color>
+    <color name="neon_green">#00E676</color>
+    <color name="neon_red">#FF1744</color>
+    <color name="white">#FFFFFF</color>
+</resources>
